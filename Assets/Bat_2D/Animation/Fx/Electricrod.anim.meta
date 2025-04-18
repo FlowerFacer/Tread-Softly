@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ddd7ce1ae56fee54db2f514f41f7d5cd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232341
+  packageName: Bat 2D & Halloween game props
+  packageVersion: 2.0
+  assetPath: Assets/Bat_2D/Animation/Fx/Electricrod.anim
+  uploadId: 613178

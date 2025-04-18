@@ -1,0 +1,45 @@
+	
+--------------Bat 2D | Game props & Animations----------------------------
+
+This package contains 2D Bat's and Halloween props.You can use this asset in your 2D games.
+
+Technical Details:-
+		
+		- Character & Props : Bat's, Candy's, Weapon's, Coins, Obstacle, FX.etc
+		- Total Prefabs : 50+
+			          Bat x 10, Bat(Night version) x 5, Candy x 20, Animated FX x 4, Weapons x 13, Others x 5
+		- Animations : 1 Flying animation for Bat, 1 animations for FX
+		- Sheet Resolution and Frames count: 
+			Bat - 2792 x 3560 (16)
+			Bat_Night - 2396 x 2084 (16)
+			Candy's, Weapons, Coins - 2980 x 2615 (Packed Image)
+			FX - 2408 x 1084 (16)
+			Broom - 820 x 3524
+			Pumpkin - 955 x 1163
+			Spider - 1087 x 565
+			Spider net - 17 x 2866
+			
+Features:-
+	- Cute Funny Bat's
+	- Usefull Halloween 2D props
+	- High quality Images
+	- Smooth Animation's
+	- FX with animations included
+	- Other basic props included
+	- Colliders & Rigidbody attached
+	- Prefabs included
+	- Fit in any style 2d games
+	- Easy to use (Drag and drop)
+	
+How to use:-
+	
+	Simply drag and drop any Spritesheet animation from the Prefab (Bat_2D > Prefabs) folder
+	to you scene.
+
+..................................................................................
+
+About Me : "SR Studios Kerala", Indie Game developer & 2D-3D Artist from Alappuzha, Kerala, India
+
+Contact : srstudioskerala@gmail.com
+
+................Thank you for downloading this package................................

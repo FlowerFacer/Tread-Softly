@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2b5335561ac903e4799dce6016e269f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232341
+  packageName: Bat 2D & Halloween game props
+  packageVersion: 2.0
+  assetPath: Assets/Bat_2D/Animation/Fx/Elctric_Rod_0.controller
+  uploadId: 613178

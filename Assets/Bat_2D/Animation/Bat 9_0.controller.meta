@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 506b764567ed0004b90addd87b4b1b08
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232341
+  packageName: Bat 2D & Halloween game props
+  packageVersion: 2.0
+  assetPath: Assets/Bat_2D/Animation/Bat 9_0.controller
+  uploadId: 613178

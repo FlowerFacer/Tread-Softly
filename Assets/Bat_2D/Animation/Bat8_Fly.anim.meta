@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c501bca166240a24c95804b249f7e5a9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232341
+  packageName: Bat 2D & Halloween game props
+  packageVersion: 2.0
+  assetPath: Assets/Bat_2D/Animation/Bat8_Fly.anim
+  uploadId: 613178

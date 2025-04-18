@@ -1,0 +1,966 @@
+fileFormatVersion: 2
+guid: 8577b54b729e14845a5a78025f92a60e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2349
+        width: 378
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0997596856d3aa64e923223a5391bb86
+      internalID: 740018518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_1
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2335
+        width: 473
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d571474e1457764dae24079bbd89f65
+      internalID: -1559504911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_2
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 2271
+        width: 256
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528d13bec21ece04887a6e92f0ead6b9
+      internalID: 1347932898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_3
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 2271
+        width: 256
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28da94090f9f4cb46ad5c09995ea2799
+      internalID: -1313371219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2267
+        width: 209
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f1aaa2395f81342be7ba5ec71fc044
+      internalID: -1444354781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_5
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 2272
+        width: 200
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ee5dc357b789740a5d6bcb31aa5bfc
+      internalID: 2041389073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_6
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 1920
+        width: 302
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b4f1838e6e14e4493357ed99f3d183
+      internalID: 1570911196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2060
+        width: 378
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d938038337c02004ca04acbe716854e0
+      internalID: 1745278529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_8
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2046
+        width: 473
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83cefd1508dff546b036265e53021aa
+      internalID: 1045496284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_9
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1742
+        width: 344
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4cb4d9fc11083409fd08e368aaf994
+      internalID: -1160830433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_10
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 1742
+        width: 336
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a387464ad61f642bebd08cd3d9f642
+      internalID: -348674403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1708
+        width: 312
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ab27053433b504eb0338baddfc8ba1
+      internalID: -1432995343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_12
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1739
+        width: 405
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5659817958f994ea6aad32c7de9f1a
+      internalID: 914510401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_13
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1742
+        width: 224
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0f26656bd96f6408ddb0e8b5680bf0
+      internalID: 863801003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_14
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 1126
+        width: 293
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ef569f175be4e4e813929b5f7b2754
+      internalID: 64061842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1391
+        width: 401
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c297e14c8c5795549ac066e86e186daa
+      internalID: 551034383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_16
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1279
+        width: 324
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd751fd6d4f9ef499879ee08af53068
+      internalID: -1768577044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_17
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1373
+        width: 378
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbdb70b117d1c64fb7d3b43f60ef797
+      internalID: -380391236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_18
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1359
+        width: 473
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ce1b83d43f5834e8c25969f7429bb5
+      internalID: -2111000797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 673
+        width: 135
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5695bb897a1774fb270b196421a195
+      internalID: 356417375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_20
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 958
+        width: 477
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5713afe8033925d4eba2e5586b6be835
+      internalID: -787413023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_21
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 938
+        width: 208
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdc5761ab1208a419c05c74a1c5e70e
+      internalID: 1603385769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_22
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 951
+        width: 226
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf4fab610980574eba65c76e240365a
+      internalID: -1072449310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_23
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 954
+        width: 818
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd78172b519a02479d84774feaa2621
+      internalID: -1093644698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_24
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 646
+        width: 327
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7316dc355c80e604ea564fe28cf6f159
+      internalID: -2124823184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_25
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 603
+        width: 193
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1a62bab6fae35449e97f272e89c904
+      internalID: -1907463233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_26
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 599
+        width: 193
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e3f29ab59dffe498f0aa97e869de0d
+      internalID: 2137586578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_27
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 754
+        width: 782
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c88133ef067bb4c895302718a3373b
+      internalID: -873293904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_28
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 614
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f257da2672308409ca5de5637a7d9d
+      internalID: -1354684946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 76
+        width: 428
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da2c135b8cfee541aebf2586e9c658a
+      internalID: -1243115985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_30
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 76
+        width: 428
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005d21eb1c5c4994ab00fc79ecc0dd38
+      internalID: 924380869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_31
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 76
+        width: 428
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83edf69b132f463479595a0db1a8982b
+      internalID: 286065857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_32
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 408
+        width: 319
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bf4ac44ae17ff499a50db01113571a
+      internalID: -1276900436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_33
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 404
+        width: 319
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e0b6dddc00bbe4ea9107bf9b7c0a3f
+      internalID: -1008232258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_34
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 365
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c402b6e05717f0c4d95e3ed9c2c8b640
+      internalID: 428001732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_35
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 86
+        width: 245
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdbbd76c41b50044ac443132c370882
+      internalID: -2048605443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_36
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 86
+        width: 244
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00149943c17f924abe35b3c22bec9ab
+      internalID: 1182334701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat props Halloween 2D_37
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 117
+        width: 168
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c31538fd6f1fe4da1e96a594383fc4
+      internalID: -326655408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bat props Halloween 2D_0: 740018518
+      Bat props Halloween 2D_1: -1559504911
+      Bat props Halloween 2D_10: -348674403
+      Bat props Halloween 2D_11: -1432995343
+      Bat props Halloween 2D_12: 914510401
+      Bat props Halloween 2D_13: 863801003
+      Bat props Halloween 2D_14: 64061842
+      Bat props Halloween 2D_15: 551034383
+      Bat props Halloween 2D_16: -1768577044
+      Bat props Halloween 2D_17: -380391236
+      Bat props Halloween 2D_18: -2111000797
+      Bat props Halloween 2D_19: 356417375
+      Bat props Halloween 2D_2: 1347932898
+      Bat props Halloween 2D_20: -787413023
+      Bat props Halloween 2D_21: 1603385769
+      Bat props Halloween 2D_22: -1072449310
+      Bat props Halloween 2D_23: -1093644698
+      Bat props Halloween 2D_24: -2124823184
+      Bat props Halloween 2D_25: -1907463233
+      Bat props Halloween 2D_26: 2137586578
+      Bat props Halloween 2D_27: -873293904
+      Bat props Halloween 2D_28: -1354684946
+      Bat props Halloween 2D_29: -1243115985
+      Bat props Halloween 2D_3: -1313371219
+      Bat props Halloween 2D_30: 924380869
+      Bat props Halloween 2D_31: 286065857
+      Bat props Halloween 2D_32: -1276900436
+      Bat props Halloween 2D_33: -1008232258
+      Bat props Halloween 2D_34: 428001732
+      Bat props Halloween 2D_35: -2048605443
+      Bat props Halloween 2D_36: 1182334701
+      Bat props Halloween 2D_37: -326655408
+      Bat props Halloween 2D_4: -1444354781
+      Bat props Halloween 2D_5: 2041389073
+      Bat props Halloween 2D_6: 1570911196
+      Bat props Halloween 2D_7: 1745278529
+      Bat props Halloween 2D_8: 1045496284
+      Bat props Halloween 2D_9: -1160830433
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232341
+  packageName: Bat 2D & Halloween game props
+  packageVersion: 2.0
+  assetPath: Assets/Bat_2D/Sprites/Props/Bat props Halloween 2D.png
+  uploadId: 613178
