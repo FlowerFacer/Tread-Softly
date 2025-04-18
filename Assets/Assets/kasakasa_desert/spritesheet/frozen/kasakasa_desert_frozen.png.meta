@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: d5269837abe83274b8103242beaf7497
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3685508319081116533
+    second: kasakasa_desert_frozen_0
+  - first:
+      213: -7854141852600335643
+    second: kasakasa_desert_frozen_1
+  - first:
+      213: 4658451823332521874
+    second: kasakasa_desert_frozen_2
+  - first:
+      213: 4793663657513251258
+    second: kasakasa_desert_frozen_3
+  - first:
+      213: -6687350320415340957
+    second: kasakasa_desert_frozen_4
+  - first:
+      213: 1052688302440912431
+    second: kasakasa_desert_frozen_5
+  - first:
+      213: 4868215825245064897
+    second: kasakasa_desert_frozen_6
+  - first:
+      213: -10242441869055251
+    second: kasakasa_desert_frozen_7
+  - first:
+      213: -5367473755861990911
+    second: kasakasa_desert_frozen_8
+  - first:
+      213: -4279400285403149652
+    second: kasakasa_desert_frozen_9
+  - first:
+      213: 2101420071081167030
+    second: kasakasa_desert_frozen_10
+  - first:
+      213: -3407975466903555374
+    second: kasakasa_desert_frozen_11
+  - first:
+      213: 3198125708603784243
+    second: kasakasa_desert_frozen_12
+  - first:
+      213: -2352432828883829456
+    second: kasakasa_desert_frozen_13
+  - first:
+      213: 8540940788402042682
+    second: kasakasa_desert_frozen_14
+  - first:
+      213: 8540788183078587139
+    second: kasakasa_desert_frozen_15
+  - first:
+      213: -6471387888334060713
+    second: kasakasa_desert_frozen_16
+  - first:
+      213: 921749077375434431
+    second: kasakasa_desert_frozen_17
+  - first:
+      213: -3660883029395623923
+    second: kasakasa_desert_frozen_18
+  - first:
+      213: -1720223453260797045
+    second: kasakasa_desert_frozen_19
+  - first:
+      213: -7597633559716574894
+    second: kasakasa_desert_frozen_20
+  - first:
+      213: -1699954775589391985
+    second: kasakasa_desert_frozen_21
+  - first:
+      213: 6743461145468418843
+    second: kasakasa_desert_frozen_22
+  - first:
+      213: 4430378642051240117
+    second: kasakasa_desert_frozen_23
+  - first:
+      213: -674749413937956825
+    second: kasakasa_desert_frozen_24
+  - first:
+      213: 5993830201207959419
+    second: kasakasa_desert_frozen_25
+  - first:
+      213: -780262009820696053
+    second: kasakasa_desert_frozen_26
+  - first:
+      213: -1599665552913547567
+    second: kasakasa_desert_frozen_27
+  - first:
+      213: -1068218780680529365
+    second: kasakasa_desert_frozen_28
+  - first:
+      213: -7118074632926832822
+    second: kasakasa_desert_frozen_29
+  - first:
+      213: -7717195917880886546
+    second: kasakasa_desert_frozen_30
+  - first:
+      213: 6090322450452749486
+    second: kasakasa_desert_frozen_31
+  - first:
+      213: 1933293821985810880
+    second: kasakasa_desert_frozen_32
+  - first:
+      213: 4519339045200317680
+    second: kasakasa_desert_frozen_33
+  - first:
+      213: -9021994804260562430
+    second: kasakasa_desert_frozen_34
+  - first:
+      213: 584232699378648949
+    second: kasakasa_desert_frozen_35
+  - first:
+      213: 8119588340931178602
+    second: kasakasa_desert_frozen_36
+  - first:
+      213: -1633846055769589021
+    second: kasakasa_desert_frozen_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 641
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c4c60e5b17adcc0800000000000000
+      internalID: -3685508319081116533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353
+        width: 641
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e28a3c199b700390800000000000000
+      internalID: -7854141852600335643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 129
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2977105704526a040800000000000000
+      internalID: 4658451823332521874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 164
+        width: 130
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1f6c6d2b3868240800000000000000
+      internalID: 4793663657513251258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 226
+        width: 65
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3668c0f8052c133a0800000000000000
+      internalID: -6687350320415340957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 252
+        width: 65
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2613360f66eb9e00800000000000000
+      internalID: 1052688302440912431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 281
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cecaa900806f8340800000000000000
+      internalID: 4868215825245064897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 286
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea23caad8c9bdff0800000000000000
+      internalID: -10242441869055251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 286
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1024d90ae07e285b0800000000000000
+      internalID: -5367473755861990911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_9
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 282
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa07d81d148c94c0800000000000000
+      internalID: -4279400285403149652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_10
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 286
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b84bacbb6eb92d10800000000000000
+      internalID: 2101420071081167030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_11
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 302
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2b7fb7e5074b0d0800000000000000
+      internalID: -3407975466903555374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_12
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 162
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c7f583366026c20800000000000000
+      internalID: 3198125708603784243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 249
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d796c4eca7a5fd0800000000000000
+      internalID: -2352432828883829456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_14
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37395c2564878670800000000000000
+      internalID: 8540940788402042682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_15
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 231
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bc04af999f68670800000000000000
+      internalID: 8540788183078587139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_16
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 249
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7534510a0030136a0800000000000000
+      internalID: -6471387888334060713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 169
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbeb109f6e5bacc00800000000000000
+      internalID: 921749077375434431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 159
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d003e9ce74ee13dc0800000000000000
+      internalID: -3660883029395623923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_19
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 165
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b281622e98028e0800000000000000
+      internalID: -1720223453260797045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_20
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 176
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259c18b0888cf8690800000000000000
+      internalID: -7597633559716574894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_21
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 176
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81f3ca632c8868e0800000000000000
+      internalID: -1699954775589391985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 178
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b3b44fe26959d50800000000000000
+      internalID: 6743461145468418843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_23
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 163
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b011fbd6eddb7d30800000000000000
+      internalID: 4430378642051240117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_24
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 197
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72833d5abfec2a6f0800000000000000
+      internalID: -674749413937956825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_25
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 164
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f2203bfcc5e2350800000000000000
+      internalID: 5993830201207959419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 641
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02b7e806d3fb25f0800000000000000
+      internalID: -780262009820696053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_27
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 161
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deb82fa7a8dcc9e0800000000000000
+      internalID: -1599665552913547567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 641
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ad22bbdacec21f0800000000000000
+      internalID: -1068218780680529365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 641
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a475da3a5d4873d90800000000000000
+      internalID: -7118074632926832822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 625
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea7d9c333307e490800000000000000
+      internalID: -7717195917880886546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 577
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac92d2300c258450800000000000000
+      internalID: 6090322450452749486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 625
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9ebe1fc7074da10800000000000000
+      internalID: 1933293821985810880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcc7b8caeae7be30800000000000000
+      internalID: 4519339045200317680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a11aea68f6bc280800000000000000
+      internalID: -9021994804260562430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_35
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 13
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577c1a07b8c9b1800800000000000000
+      internalID: 584232699378648949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_36
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 13
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a603b9f93929ea070800000000000000
+      internalID: 8119588340931178602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_frozen_37
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 13
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea3e243ba96359e0800000000000000
+      internalID: -1633846055769589021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8998ea3a72ca6f44d8bbd8f2e13fdcb4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kasakasa_desert_frozen_0: -3685508319081116533
+      kasakasa_desert_frozen_1: -7854141852600335643
+      kasakasa_desert_frozen_10: 2101420071081167030
+      kasakasa_desert_frozen_11: -3407975466903555374
+      kasakasa_desert_frozen_12: 3198125708603784243
+      kasakasa_desert_frozen_13: -2352432828883829456
+      kasakasa_desert_frozen_14: 8540940788402042682
+      kasakasa_desert_frozen_15: 8540788183078587139
+      kasakasa_desert_frozen_16: -6471387888334060713
+      kasakasa_desert_frozen_17: 921749077375434431
+      kasakasa_desert_frozen_18: -3660883029395623923
+      kasakasa_desert_frozen_19: -1720223453260797045
+      kasakasa_desert_frozen_2: 4658451823332521874
+      kasakasa_desert_frozen_20: -7597633559716574894
+      kasakasa_desert_frozen_21: -1699954775589391985
+      kasakasa_desert_frozen_22: 6743461145468418843
+      kasakasa_desert_frozen_23: 4430378642051240117
+      kasakasa_desert_frozen_24: -674749413937956825
+      kasakasa_desert_frozen_25: 5993830201207959419
+      kasakasa_desert_frozen_26: -780262009820696053
+      kasakasa_desert_frozen_27: -1599665552913547567
+      kasakasa_desert_frozen_28: -1068218780680529365
+      kasakasa_desert_frozen_29: -7118074632926832822
+      kasakasa_desert_frozen_3: 4793663657513251258
+      kasakasa_desert_frozen_30: -7717195917880886546
+      kasakasa_desert_frozen_31: 6090322450452749486
+      kasakasa_desert_frozen_32: 1933293821985810880
+      kasakasa_desert_frozen_33: 4519339045200317680
+      kasakasa_desert_frozen_34: -9021994804260562430
+      kasakasa_desert_frozen_35: 584232699378648949
+      kasakasa_desert_frozen_36: 8119588340931178602
+      kasakasa_desert_frozen_37: -1633846055769589021
+      kasakasa_desert_frozen_4: -6687350320415340957
+      kasakasa_desert_frozen_5: 1052688302440912431
+      kasakasa_desert_frozen_6: 4868215825245064897
+      kasakasa_desert_frozen_7: -10242441869055251
+      kasakasa_desert_frozen_8: -5367473755861990911
+      kasakasa_desert_frozen_9: -4279400285403149652
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

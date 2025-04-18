@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 94c1ecd325fe6ea46acb275761bd10e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8870999507569398173
+    second: kasakasa_desert_day_0
+  - first:
+      213: 6228174690719946622
+    second: kasakasa_desert_day_1
+  - first:
+      213: -5496358907471554038
+    second: kasakasa_desert_day_2
+  - first:
+      213: 5199078224552682915
+    second: kasakasa_desert_day_3
+  - first:
+      213: 5862572193951047843
+    second: kasakasa_desert_day_4
+  - first:
+      213: 7604577511954896741
+    second: kasakasa_desert_day_5
+  - first:
+      213: -1929951061673971964
+    second: kasakasa_desert_day_6
+  - first:
+      213: 1986678274197284688
+    second: kasakasa_desert_day_7
+  - first:
+      213: 6009751414940745833
+    second: kasakasa_desert_day_8
+  - first:
+      213: 8120287375334781700
+    second: kasakasa_desert_day_9
+  - first:
+      213: -8356853382393240261
+    second: kasakasa_desert_day_10
+  - first:
+      213: 6621913843631306570
+    second: kasakasa_desert_day_11
+  - first:
+      213: -82461891465384021
+    second: kasakasa_desert_day_12
+  - first:
+      213: -4752455919973255023
+    second: kasakasa_desert_day_13
+  - first:
+      213: -3428675953051728878
+    second: kasakasa_desert_day_14
+  - first:
+      213: 6905640847608361662
+    second: kasakasa_desert_day_15
+  - first:
+      213: -5124874791198897123
+    second: kasakasa_desert_day_16
+  - first:
+      213: 6449438484062342164
+    second: kasakasa_desert_day_17
+  - first:
+      213: 3105714411053398998
+    second: kasakasa_desert_day_18
+  - first:
+      213: 4511198900211426152
+    second: kasakasa_desert_day_19
+  - first:
+      213: -789113913754459687
+    second: kasakasa_desert_day_20
+  - first:
+      213: -3427544087899453762
+    second: kasakasa_desert_day_21
+  - first:
+      213: 6583324238677200070
+    second: kasakasa_desert_day_22
+  - first:
+      213: 5887824607643234861
+    second: kasakasa_desert_day_23
+  - first:
+      213: -5963670247545001536
+    second: kasakasa_desert_day_24
+  - first:
+      213: 7567794260636392119
+    second: kasakasa_desert_day_25
+  - first:
+      213: 5931519937227641123
+    second: kasakasa_desert_day_26
+  - first:
+      213: -6600240957952174344
+    second: kasakasa_desert_day_27
+  - first:
+      213: -6346890306007081883
+    second: kasakasa_desert_day_28
+  - first:
+      213: 5439019543178233439
+    second: kasakasa_desert_day_29
+  - first:
+      213: -2560154202789402880
+    second: kasakasa_desert_day_30
+  - first:
+      213: 1916995132684228770
+    second: kasakasa_desert_day_31
+  - first:
+      213: -1415483263665612742
+    second: kasakasa_desert_day_32
+  - first:
+      213: 1653386756033579528
+    second: kasakasa_desert_day_33
+  - first:
+      213: 6200689119597988941
+    second: kasakasa_desert_day_34
+  - first:
+      213: 6037879825517563238
+    second: kasakasa_desert_day_35
+  - first:
+      213: 1446694142495180111
+    second: kasakasa_desert_day_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kasakasa_desert_day_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 641
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91d6533d0f1c1b70800000000000000
+      internalID: 8870999507569398173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 641
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77d07702ebee6650800000000000000
+      internalID: 6228174690719946622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 198
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a9a12d1b209b3b0800000000000000
+      internalID: -5496358907471554038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 128
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a56eed6916d62840800000000000000
+      internalID: 5199078224552682915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 262
+        width: 65
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0e882695a0c5150800000000000000
+      internalID: 5862572193951047843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 278
+        width: 65
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567def2d4f2e88960800000000000000
+      internalID: 7604577511954896741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_6
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 310
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fe8071cbf6735e0800000000000000
+      internalID: -1929951061673971964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 294
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057e3805d59129b10800000000000000
+      internalID: 1986678274197284688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_8
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 310
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960c1f3221de66350800000000000000
+      internalID: 6009751414940745833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_9
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 310
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4033be0485e01b070800000000000000
+      internalID: 8120287375334781700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 228
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35ed6e002e760c80800000000000000
+      internalID: -8356853382393240261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 209
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47b2ee6e83c5eb50800000000000000
+      internalID: 6621913843631306570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_12
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 209
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafe2bbb8590bdef0800000000000000
+      internalID: -82461891465384021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 209
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198ba473582eb0eb0800000000000000
+      internalID: -4752455919973255023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_14
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 209
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2148d68f265ea60d0800000000000000
+      internalID: -3428675953051728878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 228
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2bf1463c3c5df50800000000000000
+      internalID: 6905640847608361662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_16
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 228
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c4c38b789c0e8b0800000000000000
+      internalID: -5124874791198897123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_17
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 212
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c05437122018950800000000000000
+      internalID: 6449438484062342164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_18
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 228
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db36a45dc6b91b20800000000000000
+      internalID: 3105714411053398998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_19
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 228
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8632c369f7ffa9e30800000000000000
+      internalID: 4511198900211426152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_20
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 228
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1e85b83118c05f0800000000000000
+      internalID: -789113913754459687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 128
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb643ccdfcaee60d0800000000000000
+      internalID: -3427544087899453762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 641
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccc29fd38aac5b50800000000000000
+      internalID: 6583324238677200070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 641
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22f06e1941c5b150800000000000000
+      internalID: 5887824607643234861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 625
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9a389b189cc3da0800000000000000
+      internalID: -5963670247545001536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 577
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bad87eb8c4360960800000000000000
+      internalID: 7567794260636392119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 625
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321d994d4fdf05250800000000000000
+      internalID: 5931519937227641123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_27
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6d64d71db3764a0800000000000000
+      internalID: -6600240957952174344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cd31ad4e05be7a0800000000000000
+      internalID: -6346890306007081883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56cb8515774b7b40800000000000000
+      internalID: 5439019543178233439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_30
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007a38c1151887cd0800000000000000
+      internalID: -2560154202789402880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_31
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 34
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8dbcf9ae88a9a10800000000000000
+      internalID: 1916995132684228770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 34
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3853b3a8713b5ce0800000000000000
+      internalID: -1415483263665612742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_33
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 34
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a87bd9e7202f610800000000000000
+      internalID: 1653386756033579528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_34
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 34
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c8440d6e54d0650800000000000000
+      internalID: 6200689119597988941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 34
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dc87416bbdac350800000000000000
+      internalID: 6037879825517563238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_day_36
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 34
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45401e58a0b31410800000000000000
+      internalID: 1446694142495180111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5076feca66fe06049b4c1b2ce3e3aa63
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kasakasa_desert_day_0: 8870999507569398173
+      kasakasa_desert_day_1: 6228174690719946622
+      kasakasa_desert_day_10: -8356853382393240261
+      kasakasa_desert_day_11: 6621913843631306570
+      kasakasa_desert_day_12: -82461891465384021
+      kasakasa_desert_day_13: -4752455919973255023
+      kasakasa_desert_day_14: -3428675953051728878
+      kasakasa_desert_day_15: 6905640847608361662
+      kasakasa_desert_day_16: -5124874791198897123
+      kasakasa_desert_day_17: 6449438484062342164
+      kasakasa_desert_day_18: 3105714411053398998
+      kasakasa_desert_day_19: 4511198900211426152
+      kasakasa_desert_day_2: -5496358907471554038
+      kasakasa_desert_day_20: -789113913754459687
+      kasakasa_desert_day_21: -3427544087899453762
+      kasakasa_desert_day_22: 6583324238677200070
+      kasakasa_desert_day_23: 5887824607643234861
+      kasakasa_desert_day_24: -5963670247545001536
+      kasakasa_desert_day_25: 7567794260636392119
+      kasakasa_desert_day_26: 5931519937227641123
+      kasakasa_desert_day_27: -6600240957952174344
+      kasakasa_desert_day_28: -6346890306007081883
+      kasakasa_desert_day_29: 5439019543178233439
+      kasakasa_desert_day_3: 5199078224552682915
+      kasakasa_desert_day_30: -2560154202789402880
+      kasakasa_desert_day_31: 1916995132684228770
+      kasakasa_desert_day_32: -1415483263665612742
+      kasakasa_desert_day_33: 1653386756033579528
+      kasakasa_desert_day_34: 6200689119597988941
+      kasakasa_desert_day_35: 6037879825517563238
+      kasakasa_desert_day_36: 1446694142495180111
+      kasakasa_desert_day_4: 5862572193951047843
+      kasakasa_desert_day_5: 7604577511954896741
+      kasakasa_desert_day_6: -1929951061673971964
+      kasakasa_desert_day_7: 1986678274197284688
+      kasakasa_desert_day_8: 6009751414940745833
+      kasakasa_desert_day_9: 8120287375334781700
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

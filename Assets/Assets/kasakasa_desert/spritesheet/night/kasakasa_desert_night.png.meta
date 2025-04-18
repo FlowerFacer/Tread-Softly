@@ -1,0 +1,1161 @@
+fileFormatVersion: 2
+guid: 8aa970e5b7199b74dab74971e2d4a820
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3048257517040283542
+    second: kasakasa_desert_night_0
+  - first:
+      213: 7329525103414001609
+    second: kasakasa_desert_night_1
+  - first:
+      213: 840116551278633423
+    second: kasakasa_desert_night_2
+  - first:
+      213: 7789296296955926791
+    second: kasakasa_desert_night_3
+  - first:
+      213: 662438100742229186
+    second: kasakasa_desert_night_4
+  - first:
+      213: -4950897374829848080
+    second: kasakasa_desert_night_5
+  - first:
+      213: -1180933828397637289
+    second: kasakasa_desert_night_6
+  - first:
+      213: -2773065114668261744
+    second: kasakasa_desert_night_7
+  - first:
+      213: -6973482273643451832
+    second: kasakasa_desert_night_8
+  - first:
+      213: 7393402572060581393
+    second: kasakasa_desert_night_9
+  - first:
+      213: 8901533994877206399
+    second: kasakasa_desert_night_10
+  - first:
+      213: 7275476753658146725
+    second: kasakasa_desert_night_11
+  - first:
+      213: -4293905149373389872
+    second: kasakasa_desert_night_12
+  - first:
+      213: -5103229050334340022
+    second: kasakasa_desert_night_13
+  - first:
+      213: 1916522669424806502
+    second: kasakasa_desert_night_14
+  - first:
+      213: -8400546170914585329
+    second: kasakasa_desert_night_15
+  - first:
+      213: 5764565878755740833
+    second: kasakasa_desert_night_16
+  - first:
+      213: 4555453901000120539
+    second: kasakasa_desert_night_17
+  - first:
+      213: 1246537656390567307
+    second: kasakasa_desert_night_18
+  - first:
+      213: 2690623580776062750
+    second: kasakasa_desert_night_19
+  - first:
+      213: -3006652982902651051
+    second: kasakasa_desert_night_20
+  - first:
+      213: -9101951645514315488
+    second: kasakasa_desert_night_21
+  - first:
+      213: -4995616613132827209
+    second: kasakasa_desert_night_22
+  - first:
+      213: 6807737335359537374
+    second: kasakasa_desert_night_23
+  - first:
+      213: 9090948555664981662
+    second: kasakasa_desert_night_24
+  - first:
+      213: 6048616447719420774
+    second: kasakasa_desert_night_25
+  - first:
+      213: 2273442335791563188
+    second: kasakasa_desert_night_26
+  - first:
+      213: 8548576315447314818
+    second: kasakasa_desert_night_27
+  - first:
+      213: 5860529697579821470
+    second: kasakasa_desert_night_28
+  - first:
+      213: -577550918485120867
+    second: kasakasa_desert_night_29
+  - first:
+      213: 7552463221425981726
+    second: kasakasa_desert_night_30
+  - first:
+      213: 2164546722511982755
+    second: kasakasa_desert_night_31
+  - first:
+      213: 4883234738441378591
+    second: kasakasa_desert_night_32
+  - first:
+      213: 3520743102356992430
+    second: kasakasa_desert_night_33
+  - first:
+      213: -8860594425906015125
+    second: kasakasa_desert_night_34
+  - first:
+      213: -6896232442591651302
+    second: kasakasa_desert_night_35
+  - first:
+      213: 2796175118009410403
+    second: kasakasa_desert_night_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kasakasa_desert_night_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 640
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fa917bf069d4a20800000000000000
+      internalID: 3048257517040283542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 640
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfbc418f34b7b560800000000000000
+      internalID: 7329525103414001609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 197
+        width: 130
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1a3e06d81b8ab00800000000000000
+      internalID: 840116551278633423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 129
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709d25e66b3291c60800000000000000
+      internalID: 7789296296955926791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 262
+        width: 65
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cccc6061f3713900800000000000000
+      internalID: 662438100742229186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 278
+        width: 65
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f95add8111ea4bb0800000000000000
+      internalID: -4950897374829848080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_6
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 310
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751ed1f90fa7c9fe0800000000000000
+      internalID: -1180933828397637289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 294
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e9b2578f71489d0800000000000000
+      internalID: -2773065114668261744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_8
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 310
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aaff7b1d6393f90800000000000000
+      internalID: -6973482273643451832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_9
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 310
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e5125a774aa9660800000000000000
+      internalID: 7393402572060581393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 228
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f38b8810a988b70800000000000000
+      internalID: 8901533994877206399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 210
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afe7617f8fa7f460800000000000000
+      internalID: 7275476753658146725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 210
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3e068440cf864c0800000000000000
+      internalID: -4293905149373389872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_13
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 228
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c1e5f7730bd29b0800000000000000
+      internalID: -5103229050334340022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_14
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 228
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a8c03b63bd89a10800000000000000
+      internalID: 1916522669424806502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_15
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f054e5bf3c34b6b80800000000000000
+      internalID: -8400546170914585329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_16
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 212
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acc29fef1adfff40800000000000000
+      internalID: 5764565878755740833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_17
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 228
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd897c7ef29383f30800000000000000
+      internalID: 4555453901000120539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_18
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 228
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85ce40e4679c4110800000000000000
+      internalID: 1246537656390567307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 228
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f527424e3075520800000000000000
+      internalID: 2690623580776062750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 128
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557083fba093646d0800000000000000
+      internalID: -3006652982902651051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 640
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029465ed33f5fa180800000000000000
+      internalID: -9101951645514315488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 80
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b58d2488210caab0800000000000000
+      internalID: -4995616613132827209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 624
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0054e9901f97e50800000000000000
+      internalID: 6807737335359537374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 576
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ef2c3ab89892e70800000000000000
+      internalID: 9090948555664981662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 624
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663b6ecbc9001f350800000000000000
+      internalID: 6048616447719420774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_26
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1c03a52c3ec8f10800000000000000
+      internalID: 2273442335791563188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2890e89ddd4a2a670800000000000000
+      internalID: 8548576315447314818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e996fd3a5b8c45150800000000000000
+      internalID: 5860529697579821470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d986ef7ef702cf7f0800000000000000
+      internalID: -577550918485120867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 34
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e194c44094dbfc860800000000000000
+      internalID: 7552463221425981726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 34
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0101f96c30a0e10800000000000000
+      internalID: 2164546722511982755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_32
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 34
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b55a34f1cb4c340800000000000000
+      internalID: 4883234738441378591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_33
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea13569a2313cd030800000000000000
+      internalID: 3520743102356992430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_34
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 34
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64d019a058d80580800000000000000
+      internalID: -8860594425906015125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_35
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 34
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1adcca9129ab40a0800000000000000
+      internalID: -6896232442591651302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_36
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 34
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363acbe74720ec620800000000000000
+      internalID: 2796175118009410403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_37
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 13
+        width: 99
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73df197894afbab4996a2d7c7e500fed
+      internalID: 714063296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_38
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd4673ba6b2b65479fa837eccdbeede
+      internalID: -1543318422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kasakasa_desert_night_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 209
+        width: 106
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858d1672454a36643b71c272cea3c070
+      internalID: 647961135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kasakasa_desert_night_0: 3048257517040283542
+      kasakasa_desert_night_1: 7329525103414001609
+      kasakasa_desert_night_10: 8901533994877206399
+      kasakasa_desert_night_11: 7275476753658146725
+      kasakasa_desert_night_12: -4293905149373389872
+      kasakasa_desert_night_13: -5103229050334340022
+      kasakasa_desert_night_14: 1916522669424806502
+      kasakasa_desert_night_15: -8400546170914585329
+      kasakasa_desert_night_16: 5764565878755740833
+      kasakasa_desert_night_17: 4555453901000120539
+      kasakasa_desert_night_18: 1246537656390567307
+      kasakasa_desert_night_19: 2690623580776062750
+      kasakasa_desert_night_2: 840116551278633423
+      kasakasa_desert_night_20: -3006652982902651051
+      kasakasa_desert_night_21: -9101951645514315488
+      kasakasa_desert_night_22: -4995616613132827209
+      kasakasa_desert_night_23: 6807737335359537374
+      kasakasa_desert_night_24: 9090948555664981662
+      kasakasa_desert_night_25: 6048616447719420774
+      kasakasa_desert_night_26: 2273442335791563188
+      kasakasa_desert_night_27: 8548576315447314818
+      kasakasa_desert_night_28: 5860529697579821470
+      kasakasa_desert_night_29: -577550918485120867
+      kasakasa_desert_night_3: 7789296296955926791
+      kasakasa_desert_night_30: 7552463221425981726
+      kasakasa_desert_night_31: 2164546722511982755
+      kasakasa_desert_night_32: 4883234738441378591
+      kasakasa_desert_night_33: 3520743102356992430
+      kasakasa_desert_night_34: -8860594425906015125
+      kasakasa_desert_night_35: -6896232442591651302
+      kasakasa_desert_night_36: 2796175118009410403
+      kasakasa_desert_night_37: 714063296
+      kasakasa_desert_night_38: -1543318422
+      kasakasa_desert_night_39: 647961135
+      kasakasa_desert_night_4: 662438100742229186
+      kasakasa_desert_night_5: -4950897374829848080
+      kasakasa_desert_night_6: -1180933828397637289
+      kasakasa_desert_night_7: -2773065114668261744
+      kasakasa_desert_night_8: -6973482273643451832
+      kasakasa_desert_night_9: 7393402572060581393
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
