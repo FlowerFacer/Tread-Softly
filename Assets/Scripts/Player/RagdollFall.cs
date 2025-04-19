@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class RagdollFall : MonoBehaviour
 {
@@ -7,6 +8,8 @@ public class RagdollFall : MonoBehaviour
     private bool hasFallen = false;
     public float fallThresholdDuration = 0.75f;
     private float tiltTimer = 0f;
+
+    public GameObject headObject; // Assign your lamb's head GameObject in the Inspector
 
     void Update()
     {
@@ -37,12 +40,18 @@ public class RagdollFall : MonoBehaviour
             rb.gravityScale = 1f;
         }
 
-        Invoke("ReloadScene", 2f);
+        // Do NOT reload scene yet—we wait for the head to hit the fall zone
     }
 
-    void ReloadScene()
+    public void TriggerFallRestart()
     {
-        Debug.Log("Lamb has fallen! Scene will reload.");
+        Debug.Log("Head hit fall zone — restarting in 2 seconds!");
+        StartCoroutine(ReloadWithDelay(2f)); // 2 seconds delay
+    }
+
+    private IEnumerator ReloadWithDelay(float delay)
+    {
+        yield return new WaitForSeconds(delay);
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 

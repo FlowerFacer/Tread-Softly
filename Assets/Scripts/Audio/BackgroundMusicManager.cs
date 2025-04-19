@@ -48,6 +48,23 @@ public class BackgroundMusicManager : MonoBehaviour
         SceneManager.sceneLoaded += OnSceneLoaded;
     }
 
+    private void Start()
+    {
+        PreloadClips();
+    }
+
+    private void PreloadClips()
+    {
+        if (defaultMusic != null && defaultMusic.loadState != AudioDataLoadState.Loaded)
+            defaultMusic.LoadAudioData();
+
+        foreach (var entry in sceneMusicList)
+        {
+            if (entry.musicClip != null && entry.musicClip.loadState != AudioDataLoadState.Loaded)
+                entry.musicClip.LoadAudioData();
+        }
+    }
+
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
         PlayMusicForScene(scene.name);
@@ -92,31 +109,36 @@ public class BackgroundMusicManager : MonoBehaviour
 
     private IEnumerator CrossfadeMusic(AudioClip newClip, float targetVolume)
     {
-        float duration = 1.5f;
+        float fadeDuration = 1.5f;
 
-        // Preload audio data
+        // Preload the audio data to avoid stutter
         if (!newClip.loadState.Equals(AudioDataLoadState.Loaded))
             newClip.LoadAudioData();
 
-        // Setup next source
+        // Prepare next source
         nextSource.clip = newClip;
         nextSource.volume = 0f;
         nextSource.Play();
 
         // Crossfade
-        for (float t = 0; t < duration; t += Time.deltaTime)
+        float t = 0f;
+        float initialVolume = currentSource.volume;
+
+        while (t < fadeDuration)
         {
-            float lerp = t / duration;
-            currentSource.volume = Mathf.Lerp(targetVolume, 0f, lerp);
+            t += Time.deltaTime;
+            float lerp = t / fadeDuration;
+
+            currentSource.volume = Mathf.Lerp(initialVolume, 0f, lerp);
             nextSource.volume = Mathf.Lerp(0f, targetVolume, lerp);
+
             yield return null;
         }
 
-        // Finalize
         currentSource.Stop();
         currentSource.clip = null;
 
-        // Swap roles
+        // Swap references
         var temp = currentSource;
         currentSource = nextSource;
         nextSource = temp;

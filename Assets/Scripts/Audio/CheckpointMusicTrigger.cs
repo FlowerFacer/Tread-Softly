@@ -6,6 +6,12 @@ public class CheckpointMusicTrigger : MonoBehaviour
     [Range(0f, 1f)] public float volume = 0.5f;
     private bool hasTriggered = false; // Optional: prevent multiple triggers
 
+    private void Start()
+    {
+        if (checkpointMusic != null && checkpointMusic.loadState != AudioDataLoadState.Loaded)
+            checkpointMusic.LoadAudioData();
+    }
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (hasTriggered) return;
