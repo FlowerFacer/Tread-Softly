@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 0c08e63d9fd441c41bf1f45858d166bf
+guid: 41423138b1b0b33458aa563024dcd10c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6668959972710532825
-    second: SNOWFLAKE 2_0
+      213: 5781445747943558089
+    second: leaf_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 2
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SNOWFLAKE 2_0
+      name: leaf_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 2
-        width: 164
-        height: 147
+        x: 0
+        y: 0
+        width: 16
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9d6c5b2f2c7ec8c50800000000000000
-      internalID: 6668959972710532825
+      spriteID: 9cb4e5eb642db3050800000000000000
+      internalID: 5781445747943558089
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SNOWFLAKE 2_0: 6668959972710532825
+      leaf_0: 5781445747943558089
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
