@@ -21,7 +21,14 @@ public class StarCollectible : MonoBehaviour
                 Instantiate(collectEffect, transform.position, Quaternion.identity);
             }
 
+            if (StarManager.Instance != null)
+            {
+                StarManager.Instance.AddStar();
+            }
+
             // Add Score - added here later for game manager
+
+            Debug.Log("Stars Collected: " + StarManager.Instance.GetStarCount().ToString());
 
             // Destorys the star
             Destroy(gameObject);

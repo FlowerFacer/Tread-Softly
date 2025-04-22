@@ -51,6 +51,8 @@ public class RagdollFall : MonoBehaviour
 
     private IEnumerator ReloadWithDelay(float delay)
     {
+        if (StarManager.Instance != null)
+            StarManager.Instance.ResetStars();
         yield return new WaitForSeconds(delay);
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
