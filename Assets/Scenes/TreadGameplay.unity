@@ -1305,7 +1305,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_CategoryHash: 2.9092094e-34
-  m_labelHash: 4.5153706e-33
+  m_labelHash: 0.17373352
   m_SpriteKey: 0
   m_SpriteHash: 1029186302
 --- !u!1 &51591386
@@ -6829,7 +6829,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 250358660}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.9560557, w: -0.29318509}
+  m_LocalRotation: {x: -0, y: -0, z: 0.9826926, w: -0.18524398}
   m_LocalPosition: {x: 1.105, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -67021,7 +67021,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1503347815}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.95741314, w: -0.28872132}
+  m_LocalRotation: {x: -0, y: -0, z: 0.9925238, w: -0.12205191}
   m_LocalPosition: {x: 1.115, y: -0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -102581,7 +102581,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2323119501810768724, guid: 092fadeeea8a44941bccce1b4db4bd50, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.026252989
+      value: -0.67965484
       objectReference: {fileID: 0}
     - target: {fileID: 2323119501810768724, guid: 092fadeeea8a44941bccce1b4db4bd50, type: 3}
       propertyPath: m_LocalRotation.x
@@ -102593,11 +102593,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2323119501810768724, guid: 092fadeeea8a44941bccce1b4db4bd50, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.99965537
+      value: 0.7335321
       objectReference: {fileID: 0}
     - target: {fileID: 2323119501810768724, guid: 092fadeeea8a44941bccce1b4db4bd50, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 183.009
+      value: 265.37
       objectReference: {fileID: 0}
     - target: {fileID: 2415738664437876501, guid: 092fadeeea8a44941bccce1b4db4bd50, type: 3}
       propertyPath: m_UseLimits
