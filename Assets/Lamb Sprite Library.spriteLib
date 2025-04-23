@@ -32,8 +32,13 @@ MonoBehaviour:
       m_Sprite: {fileID: 3386377984809167004, guid: 5244f6db3a009b44497d78a204d23512, type: 3}
       m_FromMain: 0
       m_SpriteOverride: {fileID: 3386377984809167004, guid: 5244f6db3a009b44497d78a204d23512, type: 3}
+    - m_Name: Side Talk
+      m_Hash: 438414863
+      m_Sprite: {fileID: -4601773447627629574, guid: 5244f6db3a009b44497d78a204d23512, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -4601773447627629574, guid: 5244f6db3a009b44497d78a204d23512, type: 3}
     m_FromMain: 0
-    m_EntryOverrideCount: 3
+    m_EntryOverrideCount: 4
   m_PrimaryLibraryGUID: 
-  m_ModificationHash: 638801927617434856
+  m_ModificationHash: 638809746382733439
   m_Version: 1
