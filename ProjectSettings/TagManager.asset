@@ -6,6 +6,7 @@ TagManager:
   tags:
   - New tag
   - Head
+  - Rope
   layers:
   - Default
   - TransparentFX
