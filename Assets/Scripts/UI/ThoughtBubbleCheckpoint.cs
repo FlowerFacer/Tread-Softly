@@ -1,10 +1,13 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class ThoughtBubbleCheckpoint : MonoBehaviour
 {
     public CanvasGroup thoughtBubble;
     public Animator lambAnimator;
+    public AudioClip talkSound;
     public string talkingAnimationTrigger = "Talk";
     public float displayTime = 4f;
     public float fadeSpeed = 2f;
@@ -26,7 +29,14 @@ public class ThoughtBubbleCheckpoint : MonoBehaviour
             triggered = true;
             thoughtBubble.alpha = 1f;
             lambAnimator.SetTrigger(talkingAnimationTrigger);
+            StartCoroutine(PlayTalkSound(0.5f)); // seconds delay
         }
+    }
+
+    private IEnumerator PlayTalkSound(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        AudioSource.PlayClipAtPoint(talkSound, transform.position);
     }
 
     void Update()
@@ -45,4 +55,6 @@ public class ThoughtBubbleCheckpoint : MonoBehaviour
             }
         }
     }
+
 }
+
